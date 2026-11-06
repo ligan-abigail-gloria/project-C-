@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1793541413 source:c:\users\user\downloads\ex_heritage\banque.cpp
+	"Banque.h"
+	"CompteCourant.h"
+	"CompteEpargne.h"
+	<cmath>
+	<iostream>
+	<stdexcept>
+
+1793541417 c:\users\user\downloads\ex_heritage\banque.h
+	<memory>
+	<string>
+	<vector>
+	"Client.h"
+	"compte.h"
+
+1793541410 c:\users\user\downloads\ex_heritage\client.h
+	<string>
+
+1793539541 c:\users\user\downloads\ex_heritage\compte.h
+	<memory>
+	<string>
+	"Client.h"
+
+1793539541 c:\users\user\downloads\ex_heritage\comptecourant.h
+	"compte.h"
+
+1793539541 c:\users\user\downloads\ex_heritage\compteepargne.h
+	"compte.h"
+
+1793540005 source:c:\users\user\downloads\ex_heritage\client.cpp
+	"Client.h"
+	<iostream>
+
+1793539541 source:c:\users\user\downloads\ex_heritage\compte.cpp
+	"compte.h"
+	<cmath>
+	<iostream>
+	<stdexcept>
+
+1793539541 source:c:\users\user\downloads\ex_heritage\comptecourant.cpp
+	"CompteCourant.h"
+	<cmath>
+	<iostream>
+	<stdexcept>
+
+1793539541 source:c:\users\user\downloads\ex_heritage\compteepargne.cpp
+	"CompteEpargne.h"
+	<cmath>
+	<iostream>
+	<stdexcept>
+
+1793541099 source:c:\users\user\downloads\ex_heritage\main.cpp
+	<algorithm>
+	<cmath>
+	<iostream>
+	<memory>
+	<sstream>
+	<string>
+	"Banque.h"
+	"CompteEpargne.h"
+
+1793541413 source:c:\users\hp\downloads\ex_heritage\ex_heritage\banque.cpp
+	"Banque.h"
+	"CompteCourant.h"
+	"CompteEpargne.h"
+	<cmath>
+	<iostream>
+	<stdexcept>
+
+1793541417 c:\users\hp\downloads\ex_heritage\ex_heritage\banque.h
+	<memory>
+	<string>
+	<vector>
+	"Client.h"
+	"compte.h"
+
+1793541410 c:\users\hp\downloads\ex_heritage\ex_heritage\client.h
+	<string>
+
+1793539541 c:\users\hp\downloads\ex_heritage\ex_heritage\compte.h
+	<memory>
+	<string>
+	"Client.h"
+
+1793539541 c:\users\hp\downloads\ex_heritage\ex_heritage\comptecourant.h
+	"compte.h"
+
+1793539541 c:\users\hp\downloads\ex_heritage\ex_heritage\compteepargne.h
+	"compte.h"
+
+1793540005 source:c:\users\hp\downloads\ex_heritage\ex_heritage\client.cpp
+	"Client.h"
+	<iostream>
+
+1793539541 source:c:\users\hp\downloads\ex_heritage\ex_heritage\compte.cpp
+	"compte.h"
+	<cmath>
+	<iostream>
+	<stdexcept>
+
+1793539541 source:c:\users\hp\downloads\ex_heritage\ex_heritage\comptecourant.cpp
+	"CompteCourant.h"
+	<cmath>
+	<iostream>
+	<stdexcept>
+
+1793539541 source:c:\users\hp\downloads\ex_heritage\ex_heritage\compteepargne.cpp
+	"CompteEpargne.h"
+	<cmath>
+	<iostream>
+	<stdexcept>
+
+1793541099 source:c:\users\hp\downloads\ex_heritage\ex_heritage\main.cpp
+	<algorithm>
+	<cmath>
+	<iostream>
+	<memory>
+	<sstream>
+	<string>
+	"Banque.h"
+	"CompteEpargne.h"
+
